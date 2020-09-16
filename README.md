@@ -9,7 +9,7 @@ Download the zip file and open the "Sorting Ceremont COVID19.arpjor" file to vie
 Tap the screen to get sorted in the Hogwarts houses and get your house mask.
 
 ## Demonstration
-Click on the play button below to watch the demo video on youtube.
+Click on picture below to get redirected to the demo video on youtube.
 
 [![](http://img.youtube.com/vi/ASKmm6lPlcA/0.jpg)](http://www.youtube.com/watch?v=ASKmm6lPlcA "https://youtu.be/ASKmm6lPlcA/0.jpg")
 
