@@ -1,0 +1,39 @@
+{"frames": {
+
+"diamond_shiny_000.png":
+{
+	"frame": {"x":1,"y":1,"w":108,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":51,"w":108,"h":140},
+	"sourceSize": {"w":256,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"diamond_shiny_001.png":
+{
+	"frame": {"x":111,"y":118,"w":93,"h":88},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":77,"w":93,"h":88},
+	"sourceSize": {"w":256,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"diamond_shiny_002.png":
+{
+	"frame": {"x":111,"y":1,"w":105,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":64,"w":105,"h":115},
+	"sourceSize": {"w":256,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "diamond_sparkle.png",
+	"format": "RGBA8888",
+	"size": {"w":217,"h":217},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:688d033d17b988fe771c108f08ca6716:906058346aa23f127047825df3d2d8ae:f505afa0c9aa535ad3f649ac7ab0a53e$"
+}
+}
