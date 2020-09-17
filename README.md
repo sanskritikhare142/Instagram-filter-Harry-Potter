@@ -4,7 +4,7 @@ An instagram filter that creates a virtual scenario of the Sorting Ceremony held
 ## Usage
 Download the zip file and open the "Sorting Ceremont COVID19.arpjor" file to view the project. To try the filter yourself, download the Spark AR player on your phone, connect your phone via USB cable to your laptop and choose the 'Test on device' option in the project.
 
-*The filter has been submitted for review, it will be up on Instagram soon*
+To use my filter on Instagram click [here](https://www.instagram.com/ar/966332973872000/)
 
 Tap the screen to get sorted in the Hogwarts houses and get your house mask.
 
